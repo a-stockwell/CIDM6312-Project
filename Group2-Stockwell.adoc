@@ -1,0 +1,54 @@
+= Group 2 Project Submission
+
+This is the project submission for Group # 2, CIDM 6312 Spring 2022. 
+
+== Proposal Members
+
+.List of all members who participated in proposal
+. Corbin Getz
+. Bilkis Khan 
+. Robert Stockwell
+
+== Dataset description
+
+The dataset that we are exploring movie and TV Titles that have been uploaded to the system through September 25, 2021. The dataset has 12 columns and 8807 records contained in the .csv file. The column values are show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description.
+
+.Column descriptions are
+. show_id - Unique Identifier
+. format_type - Movie or TV Show
+. title - Title of movie / tv show
+. director - Director of the movie
+. cast - Names of the actors involved in the movie / tv show
+. country - Country where the item was produced
+. date_added - date it was added to Netflix
+. release_year - actual release year of movie / tv show
+. rating - TV Rating of the movie / tv show
+. duration - Total Duration in minutes for movies / Number of seasons for TV shows
+. listed_in - genre
+. description - The summary description. 
+
+== Dateset Link
+
+Data can be found on link:htts://www.kaggle.com[Kaggle website] at the following link. link:https://www.kaggle.com/shivamb/netflix-shows[Netflix Movies and TV Shows]
+
+== Project Plan
+
+Collaboration tool for code will be Google Collab so that the team has access to the same working environment. 
+
+link:https://colab.research.google.com/drive/1VzbsptbC3ar11K_kru8Md4ipJYo3NRkb?usp=sharing[Group #2 Environment]
+
+Code Tools will consist of:
+
+* Python with
+** Pandas
+** NumPy
+** Matplotlib
+** Additional packages when identified
+
+Preliminary Plan
+
+* Data cleaning - Corbin - 3/5
+* Exploratory data analysis - Corbin - 3/13
+* Data recommendations - Bilkis - 3/20
+* Visualizations - Andy - 3/27
+* Conclusion and summation of analysis - Team - 4/3
